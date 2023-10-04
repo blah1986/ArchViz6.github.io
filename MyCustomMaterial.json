@@ -1,0 +1,44 @@
+{
+    "shader_datas": [
+        {
+            "contexts": [
+                {
+                    "color_attachments": [
+                        "RGBA64",
+                        "RGBA64"
+                    ],
+                    "compare_mode": "less",
+                    "constants": [
+                        {
+                            "link": "_worldViewProjectionMatrix",
+                            "name": "WVP",
+                            "type": "mat4"
+                        },
+                        {
+                            "link": "_normalMatrix",
+                            "name": "N",
+                            "type": "mat3"
+                        }
+                    ],
+                    "cull_mode": "clockwise",
+                    "depth_write": true,
+                    "fragment_shader": "MyCustomMaterial.frag",
+                    "name": "mesh",
+                    "texture_units": [],
+                    "vertex_elements": [
+                        {
+                            "data": "short4norm",
+                            "name": "pos"
+                        },
+                        {
+                            "data": "short2norm",
+                            "name": "nor"
+                        }
+                    ],
+                    "vertex_shader": "MyCustomMaterial.vert"
+                }
+            ],
+            "name": "MyCustomMaterial"
+        }
+    ]
+}
