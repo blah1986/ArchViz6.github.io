@@ -1,0 +1,7 @@
+#?RADIANCE
+# Output from cmft.
+FORMAT=32-bit_rle_rgbe
+EXPOSURE=1
+
+-Y 16 +X 32
+$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß$iß\ÌZÉYÇXÅXÄYÇ[Ë]Î`Ò bÖ"eÚ#gÞ%kä*sï0{ùA€D…€F‡€E‡€C…€@‚€@‚€>€€-zú+uò'oê$iá"dØ bÔ_Ñ^Ï\ÌWÈUÄTÃUÅVÆVÆVÆYË]Ð`Õ!fß&oí,xüA…€HŽ€-[£€<lµ€Ct¾€c”Ú€q£æ€f—Û€Csº€!Oš€I’€B‡€+wú'pï$iå cÚ]ÐYËWÈ\ÖZÓ[ÕZÔ[Õ[Ö]Ø^Ùaßeå#mñ;€BŠ€ N›€,_°€`—å€^{¹Õè‰—˜‚Š—™‚³Ðäv’°[“ä€(\¯€N›€EŽ€=‚€&pô!hèbà]Ø\ÖA€B“€B”€7€€7€€7€€@€@Ž€@Œ€@‹€=‡€C€Lž€$Z³€Hò€Rx¦r…‘‚£«ƒãçÍƒôøÚƒœ¢•ƒŒ¢‚RuŸ9vÑ€,`±€%T €E€>†€:€>ˆ€?Œ€A€N€S§€ W¯€Xµ€T¬€Q¥€M™€J‘€G‰€F„€ G‡€"N•€+a´€4pË€H‹é€Ci–®Öó„…ƒƒ…v„®¯—„˜Žƒ¼ßôA^€9i©€,T‹€'L€J‘üD‰÷D‚€Eˆ€H‘€N€+P„€.Y“€1`¡€0b¦€,[š€+SŠ€T›øR’åP‰ÏPƒÁSƒÀWÖ2V‰€8aš€Aq¯€\“Ó€\{•‘‚x€xƒ›£•ƒzˆ‡‚[qSu•€e™ÏR{¨Nw§Oy«Qz¬R|»Q„ÔSí+P„€v”ª¨Ä‰¸Ö‹ºÔ€¨¸xš¢rŽ‘l……Îöè~ÈæÎ~ÅÜÀ~ÇÞÎ~h{…l‰Ÿq™¼~³ßSsŠ€›Ä×€z’˜‘¨ª†Ÿ£€š¸ºÜþô~³Çµ~ž­œ~¡¸·~¯ÉÍ~ÂÒÆ~ÓÕÇ~Öåò~ov”ª˜Œ[£g°¬n¶°k¬¥[ ™T•N‹…Hz@óâp~çÓe~áÉb~ÚÅm~ÖÊ‚~ÓÕ›~Ùç¹~y†p›°›³Íº¡¸£ƒ^ëÞ~×Âr~Ê°d~Ã¦a~É¯r~Ù½}~îÈu~ƒh7ˆo@|M˜Œ[§‰@³˜GÁ¦KÊ®JÄ§C¶œ@¨<›†7|2†s.l+÷ÑR~êÄO~à¿T~Ù¿Z~ØÄd~âÒs~ôéŒ~€{Kýé~~óÕh~íÉa~è¿Z~å¹W~äµX~êº_~øÂa~…e.k.•p2{8§‰@©„8´‘=¿AÆ£CÁœ?·”;«‹7Ÿ‚4”y0Šr-‚k+ûÎT~ê¿O~á¹L~Ü¶L~Ü¸O~âÀV~êÉ`~òÐf~õÒg~öÎc~óÈ^~óÄ[~óÁ[~ôÀ[~øÂ\~c/‡f/‘j/–n0Ÿx4©„8¢}8ª†;°Œ=¥9¥€8£~7¤€6šz3s0‡l-÷ÃT~ì»P~ä´N~Þ¯M~Ú¯M~Ü²Q~â¹X~éÀ_~ïÃf~òÆh~óÆf~ñÂc~òÁ_~òÀ]~ó¿]~÷Â^~b0…e1Šh2“m2št5¢}8n5‘p6’q5’q4“q4“q3‘p2Žn1‡j/e-ùÂW~ð»T~ê·S~æ´S~å²T~æ´X~è¶\~ë¹`~í¼b~í½c~î¼b~ìºa~ë·_~ë¶]~ì¶]~ñ¹]~÷½_~þÂ`~ƒd1ˆg2Œk4n5ƒe1…g2†h2‡h1ˆi1ˆi1ˆi1†g0ƒf/€c.ûÂZ~õ¾X~ðºW~ì¶V~ê´V~é´X~è´Z~è³[~è´\~è´]~ç´]~æ²\~æ±\~ç±[~è±[~é²[~ï¶\~ô»]~ù¿_~ýÃ`~c0ƒe1øÀ^~úÂ^~üÃ_~ýÄ_~þÄ_~þÅ^~þÄ^~üÃ]~ûÁ\~ø¿[~ö½[~ó»Z~ð¹Y~î·Y~í¶Y~ëµY~ê´Y~è²Y~ç±Y~å°X~å°Y~æ±Y~ç±Y~ç²Z~è²Z~é³Z~ê´Z~ëµZ~ï¸[~ò»\~ö½]~øÀ^~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~ï¸[~
